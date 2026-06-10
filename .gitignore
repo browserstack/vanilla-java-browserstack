@@ -1,0 +1,21 @@
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+
+# BrowserStack / logs
+local.log
+logs/
+log/
+
+# Credentials — never commit
+.env
