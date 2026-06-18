@@ -44,7 +44,7 @@ parallelsPerPlatform: 1
 browserstackAutomation: true
 browserstackLocal: true
 
-source: vanilla-java-browserstack:sample-sdk:v1.0
+source: java:sample-sdk:v1.0
 
 # ======================
 # Test Observability
